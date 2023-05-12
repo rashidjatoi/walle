@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "733368044163",
+    "project_id": "walle-d2e15",
+    "storage_bucket": "walle-d2e15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733368044163:android:9c34d635435a6be026a9b6",
+        "android_client_info": {
+          "package_name": "com.example.walle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733368044163-7v6c95n947nelcpuaflusd6q4kvkbvd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Vx1DSUiW2X6BM_MyYleEa09K9d3KrV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733368044163-7v6c95n947nelcpuaflusd6q4kvkbvd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+#Fri May 12 11:58:44 PKT 2023
+base.1=D\:\\Android Development\\CV PRojects\\walle\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+path.1=classes2.dex
+base.0=D\:\\Android Development\\CV PRojects\\walle\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
